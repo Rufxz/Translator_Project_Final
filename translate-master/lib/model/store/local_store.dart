@@ -103,8 +103,6 @@ abstract class LocalStore {
     store.setString("languages", languagesModelToJson(model));
   }
 
-
-
   //------------------ - OnBoarding - ---------------//
   static setOnBoarding() async {
     SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
