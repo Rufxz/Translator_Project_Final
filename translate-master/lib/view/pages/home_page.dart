@@ -5,7 +5,7 @@ import 'package:translate/Controller/app_controller.dart';
 import 'package:translate/model/service/app_helper.dart';
 import '../../model/repository/get_info.dart';
 import '../../model/model/translate_model.dart';
-import '../components/backgraund.dart';
+import '../components/background.dart';
 import '../components/keyboard_dissmisser.dart';
 import '../components/time_delayed.dart';
 

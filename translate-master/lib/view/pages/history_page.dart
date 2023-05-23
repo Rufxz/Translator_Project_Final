@@ -6,7 +6,7 @@ import '../../Controller/app_controller.dart';
 import '../../model/store/local_store.dart';
 import '../../model/model/translate_model.dart';
 import '../Style/style.dart';
-import '../components/backgraund.dart';
+import '../components/background.dart';
 
 class HistoryPage extends StatefulWidget {
   const HistoryPage({Key? key}) : super(key: key);
