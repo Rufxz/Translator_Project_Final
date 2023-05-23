@@ -1,5 +1,6 @@
 # Translator_Project_Final
 The Translator App consists of:
+
 1.User Interface (UI): The translator feature will typically include a text input field where users can enter the text they want to translate. Additionally, there will be a dropdown or some other UI element to select the source language and target language for translation. The UI may also include buttons or icons to initiate the translation process.
 
 2.Language Detection: To provide a user-friendly experience, the translator may include automatic language detection. This feature analyzes the input text and attempts to determine the source language without requiring the user to manually specify it. It helps in cases where users are unsure about the language or when they want to translate text from various sources.
