@@ -12,4 +12,4 @@ The Translator App consists of:
 
 6.Additional Features: Depending on the app's requirements, additional features may be included. For instance, the translator might support translating multiple paragraphs or entire documents. It could also offer pronunciation assistance, language-specific suggestions, or even voice input for translations.
 
-7. Exciting themes for the UI and wonderful presentation of the UI.
+7.Exciting themes for the UI and wonderful presentation of the UI.
