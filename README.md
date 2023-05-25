@@ -16,3 +16,7 @@ The Translator App consists of:
 
 # FIGMA LINK
 https://www.figma.com/file/PHhOf0ItT5e79YVl9faSwi/Untitled?type=design&node-id=0%3A1&t=qp2YZrzpTTAI55gm-1
+
+# APP UI AND FUNCTIONALITIES
+
+https://github.com/Rufxz/Translator_Project_Final/assets/100163753/5696fd6d-b1d7-446d-92b9-02fd0b01db00
