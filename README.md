@@ -19,4 +19,4 @@ https://www.figma.com/file/PHhOf0ItT5e79YVl9faSwi/Untitled?type=design&node-id=0
 
 # APP UI AND FUNCTIONALITIES
 
-https://github.com/Rufxz/Translator_Project_Final/assets/100163753/5696fd6d-b1d7-446d-92b9-02fd0b01db00
+https://github.com/Rufxz/Translator_Project_Final/assets/100163753/5031e011-dcd7-44c8-8776-d8c29ae2ac56
